@@ -4,7 +4,7 @@
   "description": "𝗗𝗘𝗩𝗜𝗟 𝗠𝗗 𝗕𝗨𝗚 whatsapp bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node bot.js",
     "dev": "nodemon index.js",
     "bot": "node bot.js",
     "test": "node --check index.js"
